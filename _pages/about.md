@@ -14,7 +14,7 @@ I am a final-year master's student in mathematical engineering at UCLouvain. My 
 
 <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 100%; max-width: 600px; height: 150px; overflow-y: scroll; background-color: #f9f9f9;">
   <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-    {% assign news_posts = site.posts | where: "categories", "news" | sort: "date" | reverse %}
+    {% assign news_posts = site.collections['posts'].docs | where: "categories", "news" | sort: "date" | reverse %}
     {% for post in news_posts limit: 5 %}
       <li><strong>{{ post.date | date: "%B %Y" }}:</strong> <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
