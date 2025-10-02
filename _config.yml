@@ -29,12 +29,17 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: CET # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
+sass:
+  style: compressed
+
+css: "assets/css/custom.css"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -65,7 +70,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:adrien.janssens@uclouvain.be"
-    - label: Google Scholar
+    - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=dw7DppEAAAAJ&hl=fr&oi=sra"
     - label: "GitHub"
@@ -77,7 +82,7 @@ author:
 
 footer:
   links:
-    - label: Google Scholar
+    - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=dw7DppEAAAAJ&hl=fr&oi=sra"
     - label: "GitHub"

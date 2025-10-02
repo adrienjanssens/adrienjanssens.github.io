@@ -1,0 +1,4 @@
+.author__avatar img {
+  max-width: 220px;  /* default ~150px, increase to 220px */
+  border-radius: 50%; /* keep it circular */
+}
