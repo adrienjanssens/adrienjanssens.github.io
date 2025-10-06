@@ -1,3 +1,16 @@
+/* Custom global variables*/
+
+:root {
+  --color-bg: #242222; /* light gray background for buttons */
+  --color-bg-secondary: #5c5959; /* dark card background */
+  --color-text-primary: #ece9e9; /* dark text color */
+  --color-highlight: #b28cdf; /* light blue highlight color */
+}
+
+/* ========================
+   Author Avatar Styling
+   ======================== */
+
 .author__avatar img {
   max-width: 200px;  /* default ~150px, increase to 300px */
   border-radius: 50%; /* keep it circular */
@@ -41,7 +54,7 @@
 /* Year tag */
 .teaching-year {
   flex: 0 0 120px;
-  background-color: #79caf8; 
+  background-color: var(--color-highlight);
   color: white;
   font-weight: bold;
   text-align: center;
@@ -58,7 +71,7 @@
 }
 
 .teaching-course strong {
-  color: #79caf8; /* same highlight color for course name */
+  color: var(--color-highlight); /* same highlight color for course name */
   font-weight: bold;
   font-size: 1em;
 }
