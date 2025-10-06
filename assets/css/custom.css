@@ -13,9 +13,8 @@
   border-radius: 6px;
   font-weight: bold;
   text-decoration: none;
-  color: white;
   transition: background-color 0.3s ease, transform 0.2s ease;
-  background-color: rgb(27, 26, 26);
+  background-color: var(--color-bg-secondary);
 }
 
 .button:hover, .button-arxiv:hover, .button-pdf:hover, .button-code:hover {
@@ -42,14 +41,14 @@
 /* Year tag */
 .teaching-year {
   flex: 0 0 120px;
-  background-color: #f88379; /* coral pink like your screenshot */
+  background-color: #79caf8; 
   color: white;
   font-weight: bold;
   text-align: center;
   padding: 0.3em 0.6em;
   border-radius: 4px;
   margin-right: 1em;
-  font-size: 0.9em;
+  font-size: 0.7em;
 }
 
 /* Course & professors */
@@ -59,7 +58,7 @@
 }
 
 .teaching-course strong {
-  color: #f88379; /* same highlight color for course name */
+  color: #79caf8; /* same highlight color for course name */
   font-weight: bold;
   font-size: 1em;
 }
