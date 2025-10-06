@@ -15,6 +15,7 @@
   text-decoration: none;
   color: white;
   transition: background-color 0.3s ease, transform 0.2s ease;
+  background-color: rgb(27, 26, 26);
 }
 
 .button:hover, .button-arxiv:hover, .button-pdf:hover, .button-code:hover {
@@ -23,9 +24,9 @@
 }
 
 /* Specific colors for types of buttons */
-.button-arxiv { background-color: #e99e61; } /* arXiv orange */
-.button-pdf   { background-color: #69b37a; } /* green */
-.button-code  { background-color: #6c757d; } /* gray */
+.button-arxiv { color: #e99e61; } /* arXiv orange */
+.button-pdf   { color: #69b37a; } /* green */
+.button-code  { color: #6c757d; } /* gray */
 
 /* Teaching card container */
 .teaching-card {

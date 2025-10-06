@@ -7,8 +7,6 @@ author_profile: true
 
 ## As a Teaching Assistant
 
-## As a Teaching Assistant
-
 <div class="teaching-card">
   <div class="teaching-year">2025 - NOW</div>
   <div class="teaching-course">
