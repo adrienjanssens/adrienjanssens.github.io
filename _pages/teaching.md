@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-## Conference papers
+## As a teach
 
 - **Adrien Janssens, Adrien Banse, Julien Calbert, Raphaël M. Jungers.** "Agile temporal discretization for symbolic optimal control." *IEEE 64th Conference on Decision and Control (CDC), 2025.* *[arxiv](https://arxiv.org/abs/2504.03741)*
 <a class="button" href="https://arxiv.org/abs/2504.03741" target="_blank"> arXiv pre-print</a>
