@@ -35,11 +35,10 @@ timezone: CET # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - assets/css/custom.css
 
 sass:
   style: compressed
-
-css: "assets/css/custom.css"
 
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

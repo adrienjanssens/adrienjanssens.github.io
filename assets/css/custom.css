@@ -1,11 +1,6 @@
 /* Custom global variables*/
 
-:root {
-  --color-bg: #242222; /* light gray background for buttons */
-  --color-bg-secondary: #5c5959; /* dark card background */
-  --color-text-primary: #ece9e9; /* dark text color */
-  --color-highlight: #b28cdf; /* light blue highlight color */
-}
+
 
 /* ========================
    Author Avatar Styling
