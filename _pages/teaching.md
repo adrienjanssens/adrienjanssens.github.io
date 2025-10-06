@@ -5,11 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## As a teach
+## As a teaching assistant
 
-- **Adrien Janssens, Adrien Banse, Julien Calbert, Raphaël M. Jungers.** "Agile temporal discretization for symbolic optimal control." *IEEE 64th Conference on Decision and Control (CDC), 2025.* *[arxiv](https://arxiv.org/abs/2504.03741)*
-<a class="button" href="https://arxiv.org/abs/2504.03741" target="_blank"> arXiv pre-print</a>
-
-## Abstracts
-
-- **Adrien Janssens, Adrien Banse, Julien Calbert, Raphaël M. Jungers.** "[Abstractions with adaptive time-step for reachability analysis](https://www.beneluxmeeting.nl/2025/uploads/papers/bmsc2025_316.pdf)." *44th Benelux Meeting on Systems and Control (BNLM), 2025.*
+**2025-** - [LEPL1106: Signaux et Systèmes](https://uclouvain.be/cours-2025-lepl1106)
+**2025-** - [LINMA2222: Stochastic Optimal Control and Reinforcement Learning](https://www.uclouvain.be/cours-2025-LINMA2222.html)
+**2025-** - [LINMA2470: Stochastic Modelling](https://uclouvain.be/cours-2025-linma2470)
