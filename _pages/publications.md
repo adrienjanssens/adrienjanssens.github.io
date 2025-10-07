@@ -12,5 +12,5 @@ author_profile: true
 
 ## Abstracts
 
-- **Adrien Janssens, Adrien Banse, Julien Calbert, Raphaël M. Jungers.** "[Abstractions with adaptive time-step for reachability analysis](https://www.beneluxmeeting.nl/2025/uploads/papers/bmsc2025_316.pdf)." *44th Benelux Meeting on Systems and Control (BNLM), 2025.*
+- **Adrien Janssens, Adrien Banse, Julien Calbert, Raphaël M. Jungers.** "Abstractions with adaptive time-step for reachability analysis." *44th Benelux Meeting on Systems and Control (BNLM), 2025.*  
 <a class="button-pdf" href="https://www.beneluxmeeting.nl/2025/uploads/papers/bmsc2025_316.pdf" target="_blank">Article</a>
