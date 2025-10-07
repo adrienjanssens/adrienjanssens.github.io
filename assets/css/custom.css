@@ -1,6 +1,11 @@
 /* Custom global variables*/
 
-
+:root {
+  --color-bg-secondary: #2e2e2e; /* Darker background for cards */
+  --color-text-primary: #f0f0f0; /* Light text for readability */
+  --color-highlight: #5aabe0;    /* Coral highlight color */
+  --color-highlight-text: #5aabe0; /* White text on highlight */
+}
 
 /* ========================
    Author Avatar Styling
@@ -49,8 +54,8 @@
 /* Year tag */
 .teaching-year {
   flex: 0 0 120px;
-  background-color: var(--color-highlight);
-  color: white;
+  background-color: var(--color-bg-secondary);
+  color: var(--color-highlight-text);
   font-weight: bold;
   text-align: center;
   padding: 0.3em 0.6em;
@@ -66,7 +71,7 @@
 }
 
 .teaching-course strong {
-  color: var(--color-highlight); /* same highlight color for course name */
+  color: var(--color-highlight-text); /* same highlight color for course name */
   font-weight: bold;
   font-size: 1em;
 }

@@ -27,6 +27,6 @@ author_profile: true
   <div class="teaching-year">2025 - NOW</div>
   <div class="teaching-course">
     <strong>LINMA2470 - Stochastic Modelling</strong><br>
-    Professor: P. Chevalier and Q. Lété
+    Professors: P. Chevalier and Q. Lété
   </div>
 </div>
