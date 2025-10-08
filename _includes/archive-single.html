@@ -3,8 +3,19 @@
 {% endcapture %}
 
 <article class="archive__item">
-  <h2 class="archive__item-title">{{ post_title }}</h2>
+  <h3 class="archive__item-title" style="font-size:1.1rem; font-weight:600; margin-bottom:0.25em;">
+    {{ post_title }}
+  </h3>
+
+  {% if post.date %}
+    <p class="page__meta" style="margin:0; font-size:0.9rem; color:#666;">
+      {{ post.date | date: "%B %Y" }}
+    </p>
+  {% endif %}
+
   {% if post.excerpt %}
-    <p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+    <p class="archive__item-excerpt" style="margin-top:0.4em;">
+      {{ post.excerpt | markdownify | strip_html }}
+    </p>
   {% endif %}
 </article>
