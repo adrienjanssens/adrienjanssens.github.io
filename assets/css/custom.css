@@ -3,8 +3,8 @@
 :root {
   --color-bg-secondary: #2e2e2e;   /* Darker background for cards */
   --color-text-primary: #f0f0f0;   /* Light text for readability */
-  --color-highlight: #00adb5;      /* Coral highlight color */
-  --color-highlight-text: #00adb5; /* White text on highlight */
+  --color-highlight: #00adb5;      /* light blue highlight color */
+  --color-highlight-text: #00adb5; /* highlighted text in light blue */
 }
 
 /* ========================
