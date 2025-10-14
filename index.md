@@ -7,3 +7,19 @@ author_profile: true
 ---
 
 I am a *Ph. D. student* at UCLouvain. My supervisor is [Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home). My research interests are in the area of control theory, more specifically abstraction-based control.  
+
+
+---
+
+### 📰 News
+
+<ul style="list-style-type: disc; padding-left: 1.5em;">
+  {% for post in site.posts %}
+    <li style="margin-bottom: 0.5em;">
+      {% if post.date %}
+        <em>{{ post.date | date: "%b %-d, %Y" }}</em> – 
+      {% endif %}
+      {{ post.excerpt | markdownify | strip_html }}
+    </li>
+  {% endfor %}
+</ul>
