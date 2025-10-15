@@ -12,7 +12,7 @@ I am a *Ph. D. student* at UCLouvain. My supervisor is [Raphaël Jungers](https:
 ---
 
 ### Latest news
-
+<div style="font-size: 0.85em;">
 <ul style="list-style-type: disc; padding-left: 1.5em;">
   {% for post in site.posts %}
     <li style="margin-bottom: 0.5em;">
