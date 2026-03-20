@@ -10,7 +10,11 @@ author_profile: true
 <div class="teaching-card">
   <div class="teaching-year">2025 - NOW</div>
   <div class="teaching-course">
-    <strong>[LINMA2222 - Stochastic Optimal Control and Reinforcement Learning](https://uclouvain.be/en-cours-2026-linma2222)</strong><br>
+    <strong>
+      <a href="https://uclouvain.be/en-cours-2026-linma2222">
+        LINMA2222 - Stochastic Optimal Control and Reinforcement Learning
+      </a>
+    </strong><br>
     Professors: R. Jungers, G. Bianchin and G. Berger
   </div>
 </div>
@@ -18,7 +22,11 @@ author_profile: true
 <div class="teaching-card">
   <div class="teaching-year">2025 - NOW</div>
   <div class="teaching-course">
-    <strong>[LINMA2345 - Game Theory](https://uclouvain.be/en-cours-2026-linma2345)</strong><br>
+    <strong>
+      <a> href="https://uclouvain.be/en-cours-2026-linma2345"
+        LINMA2345 - Game Theory
+      <a>
+    </strong><br>
     Professors: R. Jungers and M. Philippe
   </div>
 </div>
