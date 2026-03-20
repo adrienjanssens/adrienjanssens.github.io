@@ -78,7 +78,10 @@
 }
 
 /* Highlight active navigation link */
-.nav__item a.active {
-  color:var(--color-highlight);
-  border-bottom: 2px solid #fff;
+.greedy-nav .visible-links a {
+  transition: all 0.2s ease;
+}
+
+.greedy-nav .visible-links a.active {
+  padding-bottom: 3px;
 }
