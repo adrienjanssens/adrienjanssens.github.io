@@ -19,7 +19,7 @@ I am a *Ph. D. student* at UCLouvain. My supervisor is [Raphaël Jungers](https:
       {% if post.date %}
         <em>{{ post.date | date: "%b %-d, %Y" }}</em> – 
       {% endif %}
-      {{ post.excerpt | markdownify | strip_html }}
+      {{ post.excerpt | markdownify }}
     </li>
   {% endfor %}
 </ul>
