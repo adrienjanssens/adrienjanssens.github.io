@@ -23,7 +23,7 @@ author_profile: true
   <div class="teaching-year">2025 - NOW</div>
   <div class="teaching-course">
     <strong>
-      <a> href="https://uclouvain.be/en-cours-2026-linma2345"
+      <a href="https://uclouvain.be/en-cours-2026-linma2345">
         LINMA2345 - Game Theory
       <a>
     </strong><br>
