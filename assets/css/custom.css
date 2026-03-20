@@ -78,9 +78,7 @@
 }
 
 /* Highlight active navigation link */
-.masthead__menu-item--active > a {
-  color: var(--color-highlight) !important;  /* light blue highlight */
-  font-weight: 600;
-  border-bottom: 2px solid #64b5f6;
+.nav__item a.active {
+  color:var(--color-highlight);
+  border-bottom: 2px solid #fff;
 }
-  
