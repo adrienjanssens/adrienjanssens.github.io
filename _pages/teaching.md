@@ -25,7 +25,7 @@ author_profile: true
     <strong>
       <a href="https://uclouvain.be/en-cours-2026-linma2345">
         LINMA2345 - Game Theory
-      <a>
+      </a>
     </strong><br>
     Professors: R. Jungers and M. Philippe
   </div>
