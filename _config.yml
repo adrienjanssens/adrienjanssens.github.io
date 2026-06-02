@@ -75,6 +75,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/adrien-janssens-819607252/"
+    - label: "CV"
+      icon: "ai ai-cv"
+      url: "/assets/files/cv.pdf"
 
 footer:
   links:
