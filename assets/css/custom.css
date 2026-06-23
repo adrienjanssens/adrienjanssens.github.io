@@ -19,7 +19,7 @@
 /* ========================
    Buttons for Publications
    ======================== */
-.button, .button-arxiv, .button-pdf, .button-code {
+.button, .button-arxiv, .button-pdf, .button-code, .button-uclouvain {
   display: inline-block;
   padding: 0.4em 0.8em;
   margin-right: 0.3em;
@@ -31,16 +31,16 @@
   background-color: var(--color-bg-secondary);
 }
 
-.button:hover, .button-arxiv:hover, .button-pdf:hover, .button-code:hover {
+.button:hover, .button-arxiv:hover, .button-pdf:hover, .button-code:hover, .button-uclouvain:hover {
   transform: translateY(-1px);
   opacity: 0.9;
 }
 
 /* Specific colors for types of buttons */
-.button-arxiv { color: #e99e61; } /* arXiv orange */
-.button-pdf   { color: #69b37a; } /* green */
-.button-code  { color: #6c757d; } /* gray */
-.button-uclouvain { color: #5db3e6; } /* cyan for UCLouvain */
+.button-arxiv { background-color: #e99e61; color: #fff; } /* arXiv orange */
+.button-pdf   { background-color: #69b37a; color: #fff; } /* green */
+.button-code  { background-color: #6c757d; color: #fff; } /* gray */
+.button-uclouvain { background-color: #5db3e6; color: #fff; } /* cyan for UCLouvain */
 
 /* Teaching card container */
 .teaching-card {
