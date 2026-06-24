@@ -9,15 +9,15 @@ author_profile: true
 
 <div class="publication-list" markdown="1">
 - **Adrien Janssens, Adrien Banse, Julien Calbert, Raphaël M. Jungers.**  
-"Dionysos.jl: from handcrafted controllers to certified-by-design control software." *The Critical Embedded Systems Conference (CES), 2026.*  
+"Agile temporal discretization for symbolic optimal control." IEEE 64th Conference on Decision and Control (CDC), 2025.  
+<a class="button-arxiv" href="https://arxiv.org/abs/2504.03741" target="_blank">arXiv pre-print</a>
 </div>
 
 ## Posters 
 
 <div class="publication-list" markdown="1">
 - **Adrien Janssens, Julien Calbert, Benoît Legat, Raphaël M. Jungers.**  
-"Dionysos.jl: from handcrafted controllers to certified-by-design control software." *IEEE 64th Conference on Decision and Control (CDC), 2025.*  
-<a class="button-arxiv" href="https://arxiv.org/abs/2504.03741" target="_blank">arXiv pre-print</a>
+"Dionysos.jl: from handcrafted controllers to certified-by-design control software." *The Critical Embedded Systems Conference (CES), 2026.*  
 </div>
 
 ## Theses 
