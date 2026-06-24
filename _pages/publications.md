@@ -16,7 +16,7 @@ author_profile: true
 ## Theses 
 
 <div class="publication-list" markdown="1">
-- **Adrien Janssens, *supervisor: Raphaël M. Jungers*.** Master thesis.
+- **Adrien Janssens, *supervisor: Raphaël M. Jungers*.**  
 "On an agile temporal discretization for abstraction-based control: applied to the optimal control of continuous-time systems."  
 Master's thesis, Mathematical Engineering, Ecole Polytechnique de Louvain, UCLouvain.  
 <a class="button-uclouvain" href="https://thesis.dial.uclouvain.be/entities/masterthesis/0f9abe2b-5b23-4e05-8faf-5220045dde24" target="_blank">UCLouvain</a>
