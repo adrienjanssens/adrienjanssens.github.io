@@ -10,7 +10,8 @@ author_profile: true
 <div class="publication-list" markdown="1">
 - **Adrien Janssens, Adrien Banse, Julien Calbert, Raphaël M. Jungers.**  
 "Agile temporal discretization for symbolic optimal control." IEEE 64th Conference on Decision and Control (CDC), 2025.  
-<a class="button-arxiv" href="https://arxiv.org/abs/2504.03741" target="_blank">arXiv pre-print</a>
+<a class="button-pdf" href="https://ieeexplore.ieee.org/document/11312201" target="_blank">Paper</a>
+<a class="button-arxiv" href="https://arxiv.org/abs/2504.03741" target="_blank">arXiv pre-print (with proofs)</a>
 </div>
 
 ## Posters 
